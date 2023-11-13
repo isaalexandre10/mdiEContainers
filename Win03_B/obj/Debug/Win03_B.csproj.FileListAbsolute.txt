@@ -1,0 +1,10 @@
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao03\Win03_B\bin\Debug\Win03_B.exe.config
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao03\Win03_B\bin\Debug\Win03_B.exe
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao03\Win03_B\bin\Debug\Win03_B.pdb
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao03\Win03_B\obj\Debug\Win03_B.csproj.AssemblyReference.cache
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao03\Win03_B\obj\Debug\Win03_B.Properties.Resources.resources
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao03\Win03_B\obj\Debug\Win03_B.csproj.GenerateResource.cache
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao03\Win03_B\obj\Debug\Win03_B.csproj.CoreCompileInputs.cache
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao03\Win03_B\obj\Debug\Win03_B.exe
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao03\Win03_B\obj\Debug\Win03_B.pdb
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao03\Win03_B\obj\Debug\Win03_B.Form1.resources

@@ -1,0 +1,14 @@
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao03\Win03\bin\Debug\Win03.exe.config
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao03\Win03\bin\Debug\Win03.exe
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao03\Win03\bin\Debug\Win03.pdb
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao03\Win03\obj\Debug\Win03.csproj.AssemblyReference.cache
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao03\Win03\obj\Debug\Win03.Funcionario.resources
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao03\Win03\obj\Debug\Win03.MDIPai.resources
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao03\Win03\obj\Debug\Win03.Properties.Resources.resources
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao03\Win03\obj\Debug\Win03.csproj.GenerateResource.cache
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao03\Win03\obj\Debug\Win03.csproj.CoreCompileInputs.cache
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao03\Win03\obj\Debug\Win03.exe
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao03\Win03\obj\Debug\Win03.pdb
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao03\Win03\obj\Debug\Win03.MeuMDI.resources
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao03\Win03\obj\Debug\Win03.TelaPrincipal.resources
+C:\Users\isaol\OneDrive\Documentos\Curso\Solucao03\Win03\obj\Debug\Win03.Flow.resources
